@@ -6,13 +6,14 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "SERVERDEADDONSBIENEP.aternos.me:62487",
+    "port": 62487,
     "version": "",
     "try-creative": false
   },
   "position": {
-    "enabled": true,
+
+    "enabled": true,62487
     "x": 0,
     "y": 100,
     "z": 0
